@@ -1,3 +1,7 @@
-# Esiman
-<video src="видео все в одном.mp4" width="180" controls>
-</video>
+# Esiman &ndash; виртуальный тренажер-симулятор лаборатории металлорежущих станков
+
+## Видеодемонстрация
+
+https://github.com/user-attachments/assets/5de474e9-8495-4fe7-be70-fe46f8c8049e
+
+## История версий
